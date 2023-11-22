@@ -31,7 +31,7 @@ Embora tenha sido meu primeiro projeto, enfrentei desafios ao decidir como estru
 
 Estou ansioso para continuar minha jornada no desenvolvimento web, explorando mais tecnologias, como CSS para estilização e JavaScript para adicionar interatividade aos meus futuros projetos.
 
-Se você quiser conferir o meu resumo sobre a Segunda Guerra Mundial, [clique aqui](seu-link-aqui). Adoraria receber feedback e sugestões para aprimorar minhas habilidades.
+Se você quiser conferir o meu resumo sobre a Segunda Guerra Mundial. Adoraria receber feedback e sugestões para aprimorar minhas habilidades.
 
 Obrigado por visitar meu repositório no GitHub!
 
