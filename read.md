@@ -1,4 +1,4 @@
-**Título: Resumo da Segunda Guerra Mundial - Meu Primeiro Projeto no GitHub**
+** Resumo da Segunda Guerra Mundial - Meu Primeiro Projeto no GitHub**
 
 Olá comunidade do GitHub,
 
